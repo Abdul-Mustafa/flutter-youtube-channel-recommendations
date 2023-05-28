@@ -42,9 +42,7 @@ Here are some YouTube channels that provide tutorials and resources for learning
 
 20. [FlutterMentor](https://www.youtube.com/@FlutterMentor): FlutterMentor offers tutorials, tips, and best practices for learning and mastering Flutter.
 
-21.
-
- [codingwithglove](https://www.youtube.com/@codingwithglove): codingwithglove provides Flutter tutorials, covering various aspects of app development, including UI, animations, and more.
+21. [codingwithglove](https://www.youtube.com/@codingwithglove): codingwithglove provides Flutter tutorials, covering various aspects of app development, including UI, animations, and more.
 
 22. [1ManStartup](https://www.youtube.com/@1ManStartup): This channel focuses on teaching Flutter and Dart programming, covering essential concepts and practical examples.
 
