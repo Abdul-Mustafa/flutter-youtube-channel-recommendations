@@ -46,5 +46,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 
 22. [1ManStartup](https://www.youtube.com/@1ManStartup): This channel focuses on teaching Flutter and Dart programming, covering essential concepts and practical examples.
 23. [JeronDev](https://www.youtube.com/@JeronDev)
+24. [Shohruh AK](https://www.youtube.com/@shohruhak3521)
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
