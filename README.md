@@ -48,5 +48,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 23. [JeronDev](https://www.youtube.com/@JeronDev)
 24. [Shohruh AK](https://www.youtube.com/@shohruhak3521)
 25. [Codrut Erdei](https://www.youtube.com/@codruterdei)
+26. [whatIlearntoday](https://www.youtube.com/@whatilearntoday-gb9dr)
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
