@@ -52,5 +52,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 27. [CodeX](https://www.youtube.com/@CodeXdev)
 28. [MJSD Coding](https://www.youtube.com/@MJSDCoding)
 29. [Flutter Guys](https://www.youtube.com/@flutterguys)
+30. [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
