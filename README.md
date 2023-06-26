@@ -54,5 +54,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 29. [Flutter Guys](https://www.youtube.com/@flutterguys)
 30. [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
 31. [Mitch Koko](https://www.youtube.com/@createdbykoko/) __*__
+32. [Baaba Devs](https://www.youtube.com/@baabadevs)
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
