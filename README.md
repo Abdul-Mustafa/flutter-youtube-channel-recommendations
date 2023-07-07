@@ -54,7 +54,7 @@ Here are some YouTube channels that provide tutorials and resources for learning
 29. [Flutter Guys](https://www.youtube.com/@flutterguys)
 30. [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)
 31. [Mitch Koko](https://www.youtube.com/@createdbykoko/) __*__
-32. [Baaba Devs](https://www.youtube.com/@baabadevs)
+32. [Baaba Devs](https://www.youtube.com/@baabadevs) Object Dection with Flutter and Python(TensorFlow)
 33. [Flame Engine](https://www.youtube.com/@FlameEngineDev)
 34. [Learn Flutter with Me](https://www.youtube.com/@LearnFlutterwithMe)
 
