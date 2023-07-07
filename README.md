@@ -56,5 +56,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 31. [Mitch Koko](https://www.youtube.com/@createdbykoko/) __*__
 32. [Baaba Devs](https://www.youtube.com/@baabadevs)
 33. [Flame Engine](https://www.youtube.com/@FlameEngineDev)
+34. [Learn Flutter with Me](https://www.youtube.com/@LearnFlutterwithMe)
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
