@@ -59,5 +59,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 34. [Learn Flutter with Me](https://www.youtube.com/@LearnFlutterwithMe)
 35. [Abubakar Shaikh](https://www.youtube.com/@AbubakarShaikh)
 36. [Flutter Explained](https://www.youtube.com/@flutterexplainedofficial)
+37. [Flutter Junction](https://www.youtube.com/@flutterjunction)
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
