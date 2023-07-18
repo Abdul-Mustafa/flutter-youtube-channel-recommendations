@@ -65,6 +65,7 @@ Here are some YouTube channels that provide tutorials and resources for learning
 40. [Programming Addict](https://www.youtube.com/@ProgrammingAddict) REST API with Flutter, Reactive programming with Flutter, Streams, RxDart, Note app with SQLite and Flutter
 41. [Flutter hero](https://www.youtube.com/@flutterhero)
 42. [Jens Tofte](https://www.youtube.com/@jenstofte9687)
-43. 
+43. [Be Developers](https://www.youtube.com/@BeDevelopers)
+44. 
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
