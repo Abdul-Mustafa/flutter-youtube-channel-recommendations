@@ -67,6 +67,6 @@ Here are some YouTube channels that provide tutorials and resources for learning
 42. [Jens Tofte](https://www.youtube.com/@jenstofte9687)
 43. [Be Developers](https://www.youtube.com/@BeDevelopers)
 44. [DartBucket](https://www.youtube.com/@dartbucket)
-45. [Mahdi Mirzadeh](https://www.youtube.com/@mahdimirzadeh) *
+45. [Mahdi Mirzadeh](https://www.youtube.com/@mahdimirzadeh) __*__
 
 Feel free to explore these channels and find the tutorials that suit your learning needs. Happy coding!
