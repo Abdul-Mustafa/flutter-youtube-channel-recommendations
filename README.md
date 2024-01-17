@@ -30,7 +30,7 @@ Here are some YouTube channels that provide tutorials and resources for learning
 
 14. [FlutterMapp](https://www.youtube.com/@FlutterMapp): FlutterMapp focuses on teaching Flutter by building real-world apps and discussing best practices.
 
-15. [TheFlutterWay](https://www.youtube.com/@TheFlutterWay): TheFlutterWay offers tutorials, code reviews, and tips for Flutter app development.
+15. *[TheFlutterWay](https://www.youtube.com/@TheFlutterWay): TheFlutterWay offers tutorials, code reviews, and tips for Flutter app development.
 
 16. [ResoCoder](https://www.youtube.com/@ResoCoder): ResoCoder provides Flutter tutorials, including state management techniques, advanced animations, and more.
 
