@@ -12,7 +12,7 @@ Here are some YouTube channels that provide tutorials and resources for learning
 
 5. [RivaanRanawat](https://www.youtube.com/@RivaanRanawat): Rivaan Ranawat shares Flutter tutorials, showcases app development projects, and discusses best practices.
 
-6. [HeyFlutter](https://www.youtube.com/@HeyFlutter): HeyFlutter offers tutorials, live coding sessions, and code reviews to help you learn and improve your Flutter skills.
+6. *[HeyFlutter](https://www.youtube.com/@HeyFlutter): HeyFlutter offers tutorials, live coding sessions, and code reviews to help you learn and improve your Flutter skills.
 
 7. [FilledStacks](https://www.youtube.com/@FilledStacks): FilledStacks provides in-depth tutorials on Flutter, covering a wide range of topics such as Firebase, animations, and state management.
 
