@@ -48,7 +48,7 @@ Here are some YouTube channels that provide tutorials and resources for learning
 23. [JeronDev](https://www.youtube.com/@JeronDev)
 24. [Shohruh AK](https://www.youtube.com/@shohruhak3521)
 25. [Codrut Erdei](https://www.youtube.com/@codruterdei)
-26. [whatIlearntoday](https://www.youtube.com/@whatilearntoday-gb9dr)
+26. *[whatIlearntoday](https://www.youtube.com/@whatilearntoday-gb9dr)
 27. [CodeX](https://www.youtube.com/@CodeXdev)
 28. [MJSD Coding](https://www.youtube.com/@MJSDCoding)
 29. [Flutter Guys](https://www.youtube.com/@flutterguys)
